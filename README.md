@@ -18,9 +18,16 @@ A Python-based epidemiological simulation that models the spread of infectious d
 ### Requirements
 - Python 3.8+
 - pygame
+- pygame-ce for python 3.14+
 - simpy (for SimPy version)
 
 ### Installation
+
+```bash
+pip install pygame simpy
+```
+
+### Installation for python 3.14+
 
 ```bash
 pip install pygame-ce simpy
