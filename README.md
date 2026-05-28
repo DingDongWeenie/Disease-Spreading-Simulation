@@ -23,7 +23,7 @@ A Python-based epidemiological simulation that models the spread of infectious d
 ### Installation
 
 ```bash
-pip install pygame simpy
+pip install pygame-ce simpy
 ```
 
 ### Running the Simulation
